@@ -29,7 +29,7 @@ export default function Step4() {
   const handleSubmit = async () => {
     // Simulate API call
     const toastId = toast.loading("Submitting your information...");
-    
+
     setTimeout(() => {
       toast.dismiss(toastId);
     }, 3000);
@@ -72,6 +72,7 @@ export default function Step4() {
                 Please review your information before submitting
               </p>
             </CardHeader>
+            
 
             <CardContent className="space-y-8">
               <div className="grid gap-6">
