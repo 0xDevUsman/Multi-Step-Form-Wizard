@@ -5,7 +5,7 @@ A fully responsive and user-friendly **Multi-Step Form Wizard** built with moder
 > Ideal for onboarding, checkout, surveys, or registration flows.
 
 ---
-# 🌐 Live Demo - 
+## 🌐 Live Demo - 
 ---
 
 ## 🚀 Features
@@ -39,13 +39,6 @@ A fully responsive and user-friendly **Multi-Step Form Wizard** built with moder
 2. **Address Info** – City, State, ZIP  
 3. **Preferences / Payment** – Options or Card Info  
 4. **Review & Submit** – Final confirmation page
-
----
-
-
-## 📸 Screenshots
-
-> 
 
 ---
 
