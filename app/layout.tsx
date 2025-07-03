@@ -8,7 +8,7 @@ import { Toaster } from "sonner"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Multi-Step Form Wizard",
+  title: "FormWizardUI",
   description: "A beautiful, responsive multi-step form with modern design",
     generator: 'v0.dev'
 }
